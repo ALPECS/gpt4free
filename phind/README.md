@@ -4,10 +4,9 @@
 import phind
 
 # set cf_clearance cookie (needed again)
-phind.cf_clearance = 'xx.xx-1682166681-0-160'
-phind.user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36' # same as the one from browser you got cf_clearance from
-
-prompt = 'who won the quatar world cup'
+phind.cf_clearance = 'w2rpdQJw7nd1cKNY_Fno_vbWwXVQGeKekZelSHGuKnk-1682533636-0-160'
+phind.user_agent =  "https://explore.whatismybrowser.com/useragents/parse/?analyse-my-user-agent="yes
+prompt = 'who won the quasar world cup'
 
 # help needed: not getting newlines from the stream, please submit a PR if you know how to fix this
 # stream completion
